@@ -31,6 +31,8 @@ UpDown-SC 是一种面向室内场景、无需训练的激光雷达地点识别�
 
 ## 视频演示
 
+[**B 站中文介绍：室内激光 SLAM 的回环检测与重定位，为什么会“认错地方”？**](https://www.bilibili.com/video/BV1GEHX64EtH/)
+
 <p align="center"><img src="docs/assets/updown_sc_method_preview.gif" width="720" alt="实测室内扫描中的低处结构与顶棚结构分离"></p>
 <p align="center"><em>同一帧实测扫描中，低处与顶棚结构提供互补线索。</em></p>
 
