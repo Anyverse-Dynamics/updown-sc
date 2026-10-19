@@ -49,7 +49,7 @@ Dependencies: CMake 3.16+, a C++17 compiler, Eigen3, PCL (`common` and `io`),
 and yaml-cpp. ROS is not required.
 
 ```bash
-git clone https://github.com/jiejie567/updown-sc.git
+git clone https://github.com/Anyverse-Dynamics/updown-sc.git
 cd updown-sc
 
 cmake -S updown_sc -B build/updown-sc -DCMAKE_BUILD_TYPE=Release

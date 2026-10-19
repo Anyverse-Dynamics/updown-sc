@@ -47,7 +47,7 @@ UpDown-SC 是一种面向室内场景、无需训练的激光雷达地点识别�
 `io`）以及 yaml-cpp。无需 ROS。
 
 ```bash
-git clone https://github.com/jiejie567/updown-sc.git
+git clone https://github.com/Anyverse-Dynamics/updown-sc.git
 cd updown-sc
 
 cmake -S updown_sc -B build/updown-sc -DCMAKE_BUILD_TYPE=Release
